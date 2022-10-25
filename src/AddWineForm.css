@@ -1,0 +1,21 @@
+.AddWine{
+    background-color: #282c34;
+    color: white;
+    padding: 10px;
+    align-items: center;
+    padding-left: 680px;
+}
+
+.table {
+    background-color: #282c34;
+    color: white;
+    padding: 10px;
+    align-items: center;
+    padding-left: 300px;
+}
+
+.wineTable
+{
+    color: white;
+    padding: 10px;
+}
